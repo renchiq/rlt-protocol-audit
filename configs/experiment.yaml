@@ -1,0 +1,45 @@
+# Основной эксперимент. Все гиперпараметры зафиксированы до запуска; подбор по тестовым фолдам не выполняется.
+results_dir: results
+feature_set: blend_pose          # 52 blendshape MediaPipe + yaw/pitch/roll
+protocols: [clip, speaker, case]
+n_splits: 10
+seeds: [0, 1, 2, 3, 4]
+n_jobs: 10
+
+models:
+  - prior                 # диагностика: доля обманных клипов в обучающей части (добавлена после первого запуска, см. HYPOTHESES.md)
+  - gender                # разведочный аудит: только пол говорящего (добавлен после первого запуска)
+  - identity_1nn          # аудит: метка клипа с ближайшим дескриптором лица SFace
+  - metadata_rf           # аудит: только технические параметры видео
+  - gesture_logreg        # ручная разметка жестов из датасета (MUMIN)
+  - stat_nodelta_logreg   # порядко-инвариантные функционалы
+  - stat_logreg           # + средний модуль первой разности
+  - stat_rf
+  - framepool             # нейросетевой порядко-инвариантный контроль
+  - gru
+  - transformer
+  - transformer_shuffled  # Transformer на кадрах со случайно переставленным порядком
+  # Проверка устойчивости (добавлена 2026-10-12 после первого запуска, см. HYPOTHESES.md, отклонение 5):
+  # те же архитектуры и гиперпараметры, число эпох выбирается ранней остановкой по внутренней валидации
+  - framepool_es
+  - gru_es
+  - transformer_es
+
+inner_splits: 5
+logreg_C_grid: [0.001, 0.01, 0.1, 1.0]
+rf:
+  n_estimators: 500
+  min_samples_leaf: 2
+
+deep:
+  train:
+    window: 128          # кадров (12.8 с при 10 fps)
+    eval_stride: 64
+    epochs: 40
+    batch_size: 16
+    lr: 0.001
+    weight_decay: 0.01
+    noise_std: 0.05
+  transformer: {d_model: 64, n_heads: 4, n_layers: 2, d_ff: 128, dropout: 0.3}
+  gru: {hidden: 32, dropout: 0.3}
+  framepool: {hidden: 64, dropout: 0.3}

@@ -1,0 +1,16 @@
+protocol,seed,leak_speaker_id,leak_case_id,min_test,max_test
+clip,0,14,18,12,13
+clip,1,14,18,12,13
+clip,2,14,17,12,13
+clip,3,15,18,12,13
+clip,4,15,18,12,13
+speaker,0,0,10,10,23
+speaker,1,0,11,10,23
+speaker,2,0,10,10,23
+speaker,3,0,11,10,23
+speaker,4,0,10,10,23
+case,0,0,0,8,33
+case,1,0,0,7,33
+case,2,0,0,7,33
+case,3,0,0,7,33
+case,4,0,0,8,33

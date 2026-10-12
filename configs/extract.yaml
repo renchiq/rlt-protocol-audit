@@ -1,0 +1,19 @@
+# Извлечение признаков (пути относительно experiments/rlt_facial_dynamics/)
+clips_root: data/raw/Real-life_Deception_Detection_2016/Clips
+faces_dir: data/derived/rlt_faces                 # этап A: лица и дескрипторы
+candidates_dir: data/derived/rlt_candidates       # этап A: миниатюры кандидатов целевого лица
+features_dir: data/derived/rlt_mediapipe_10fps    # этап B: покадровые признаки
+crops_dir: data/derived/rlt_face_crops            # этап B: контрольные кропы
+target_face_csv: metadata/target_face.csv               # ручной выбор кандидата (clip,candidate,note)
+model_path: data/models/face_landmarker.task      # MediaPipe face_landmarker float16 (sha256 64184e22...)
+detector_path: data/models/face_detection_yunet_2023mar.onnx     # OpenCV Zoo YuNet (sha256 8f2383e4...)
+recognizer_path: data/models/face_recognition_sface_2021dec.onnx # OpenCV Zoo SFace (sha256 0ba9fbfa...)
+fps: 10                 # частота дискретизации признаков, кадров/с
+detector_score: 0.6     # порог уверенности YuNet
+min_face_px: 20         # лица меньше (по высоте bbox, пикс.) не рассматриваются
+id_threshold: 0.363     # косинус SFace «то же лицо» (рекомендованный порог OpenCV) — для кластеров-кандидатов
+max_candidates: 4       # число сохраняемых кандидатов целевого лица
+track_threshold: 0.30   # мин. косинус с центром выбранного кандидата для выбора лица на кадре
+crop_scale: 2.0         # сторона кропа = 2 x max(ширина, высота) bbox
+crop_size: 256          # размер кропа, пикселей
+min_detection_conf: 0.5 # MediaPipe Face Landmarker

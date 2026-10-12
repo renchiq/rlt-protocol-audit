@@ -1,0 +1,122 @@
+clip,label,width,height,fps,duration,bitrate,readme_role,readme_case,ruling,speaker_id,gender,case_group,note,case_id
+trial_lie_001,1,854,480,29.97,17.016984,404943.0,Defendant,Amanda Hayes,Guilty,S01,F,Amanda Hayes,,Amanda Hayes
+trial_lie_002,1,854,480,29.97,62.529129,309154.0,Defendant,Amanda Hayes,Guilty,S01,F,Amanda Hayes,,Amanda Hayes
+trial_lie_003,1,854,480,29.97,7.073707,288581.0,Defendant,Amanda Hayes,Guilty,S01,F,Amanda Hayes,,Amanda Hayes
+trial_lie_004,1,854,480,29.97,11.644945,267998.0,Defendant,Amanda Hayes,Guilty,S01,F,Amanda Hayes,,Amanda Hayes
+trial_lie_005,1,854,480,29.97,53.453387,277468.0,Defendant,Amanda Hayes,Guilty,S01,F,Amanda Hayes,,Amanda Hayes
+trial_lie_006,1,854,480,29.97,18.218185,422309.0,Defendant,Amanda Hayes,Guilty,S01,F,Amanda Hayes,,Amanda Hayes
+trial_lie_007,1,1920,1080,29.97,46.813413,1106933.0,Defendant,Andrea Sneiderman,Guilty,S02,F,Andrea Sneiderman,,Andrea Sneiderman
+trial_lie_008,1,1920,1080,29.97,7.307274,1108965.0,Defendant,Andrea Sneiderman,Guilty,S02,F,Andrea Sneiderman,,Andrea Sneiderman
+trial_lie_009,1,1920,1080,29.97,20.653954,1122575.0,Defendant,Andrea Sneiderman,Guilty,S02,F,Andrea Sneiderman,,Andrea Sneiderman
+trial_lie_010,1,1920,1080,29.97,29.229196,1051954.0,Defendant,Andrea Sneiderman,Guilty,S02,F,Andrea Sneiderman,,Andrea Sneiderman
+trial_lie_011,1,1920,1080,29.97,33.7003,1087214.0,Defendant,Andrea Sneiderman,Guilty,S02,F,Andrea Sneiderman,,Andrea Sneiderman
+trial_lie_012,1,1920,1080,29.97,7.907875,1088519.0,Defendant,Andrea Sneiderman,Guilty,S02,F,Andrea Sneiderman,,Andrea Sneiderman
+trial_lie_013,1,1920,1080,29.97,19.052352,1169719.0,Defendant,Andrea Sneiderman,Guilty,S02,F,Andrea Sneiderman,,Andrea Sneiderman
+trial_lie_014,1,1280,720,29.97002997002997,13.851678,1306272.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_015,1,1280,720,29.97002997002997,34.391678,1271862.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_016,1,1280,720,29.97002997002997,36.956667,1289390.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_017,1,1280,720,29.97002997002997,43.876667,1379748.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_018,1,1280,720,29.97002997002997,34.546667,1282116.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_019,1,1280,720,29.97002997002997,36.761678,1260128.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_020,1,1280,720,29.97002997002997,11.155011,1320570.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_021,1,1280,720,29.97002997002997,18.201678,1322137.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_022,1,1280,720,29.97002997002997,41.53,1267135.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_023,1,1280,720,29.97002997002997,43.306667,1286778.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_024,1,1280,720,29.97002997002997,24.648345,1301227.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_025,1,1280,720,29.97002997002997,29.493333,1282325.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_026,1,1280,720,29.97002997002997,28.516667,1216281.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_027,1,1280,720,29.97002997002997,26.965011,1259443.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_028,1,1280,720,29.97002997002997,24.253333,1284001.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_029,1,1280,720,29.97002997002997,19.71,1319468.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_030,1,1280,720,29.97002997002997,37.79,1263192.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_031,1,1280,720,29.97002997002997,25.933333,1321946.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_lie_032,1,480,320,25.0,28.0,569955.0,Defendant,Donna Scrivo,Guilty,S04,F,Donna Scrivo,,Donna Scrivo
+trial_lie_033,1,480,320,25.0,45.0,622872.0,Defendant,Jamie Hood,Guilty,S05,M,Jamie Hood,,Jamie Hood
+trial_lie_034,1,480,320,25.0,30.0,795029.0,Defense witness,Jamie Hood,Guilty,S06,F,Jamie Hood,,Jamie Hood
+trial_lie_035,1,636,360,10.0,35.0,359440.0,Defendant,Mitchelle Blair,Guilty,S07,F,Mitchelle Blair,"косинус SFace 0,79 между клипами",Mitchelle Blair
+trial_lie_036,1,640,360,29.97002997002997,39.005633,312192.0,Defendant,Marissa Devault,Guilty,S08,F,Marissa Devault,"trial_lie_050 — размытая запись допроса; объединено с trial_lie_036 по README (Defendant / Marissa Devault), дескриптор лица не подтверждает и не опровергает",Marissa Devault
+trial_lie_037,1,640,350,27.0,26.0,238448.0,Defendant,Crystal Mangum,Guilty,S09,F,Crystal Mangum,,Crystal Mangum
+trial_lie_038,1,640,350,27.0,23.0,206415.0,Defendant,Crystal Mangum,Guilty,S09,F,Crystal Mangum,,Crystal Mangum
+trial_lie_039,1,640,350,27.0,30.0,227175.0,Defendant,Crystal Mangum,Guilty,S09,F,Crystal Mangum,,Crystal Mangum
+trial_lie_040,1,640,350,27.0,24.0,226121.0,Defendant,Crystal Mangum,Guilty,S09,F,Crystal Mangum,,Crystal Mangum
+trial_lie_041,1,320,240,30.0,26.0,350076.0,Police Spokesman,Robert Dziekanski,Guilty,S10,M,Robert Dziekanski,,Robert Dziekanski
+trial_lie_042,1,320,240,30.0,24.0,239415.0,Police Spokesman,Robert Dziekanski,Guilty,S11,M,Robert Dziekanski,,Robert Dziekanski
+trial_lie_043,1,480,360,30.0,14.089667,1322193.0,Police Spokesman,Robert Dziekanski,Guilty,S12,M,Robert Dziekanski,,Robert Dziekanski
+trial_lie_044,1,640,360,29.97002997002997,9.009,401659.0,Mayor,"Dyches, Hall, and Hopkins trial","Police lied about attacking men, a video showed they were lying. They were fired.",S13,M,"Dyches, Hall, and Hopkins trial",,"Dyches, Hall, and Hopkins trial"
+trial_lie_045,1,640,360,29.97002997002997,19.04,334631.0,,Kelly Burke,Said information was not publicly available. Link showed it was available.,S14,F,Kelly Burke,,Kelly Burke
+trial_lie_046,1,640,352,29.97002997002997,33.033,363277.0,Officer Witness of prosecution,Carlos Miller,Not Guilty,S15,F,Carlos Miller,,Carlos Miller
+trial_lie_047,1,640,352,29.97002997002997,16.016,343437.0,Officer Witness of prosecution,Carlos Miller,Not Guilty,S15,F,Carlos Miller,,Carlos Miller
+trial_lie_048,1,640,352,29.97002997002997,48.014633,333317.0,Officer Witness of prosecution,Carlos Miller,Not Guilty,S15,F,Carlos Miller,,Carlos Miller
+trial_lie_049,1,640,352,29.97002997002997,23.023,315518.0,Officer Witness of prosecution,Carlos Miller,Not Guilty,S15,F,Carlos Miller,,Carlos Miller
+trial_lie_050,1,640,360,30.0,25.0,287239.0,Defendant,Marissa Devault,Guilty,S08,F,Marissa Devault,"trial_lie_050 — размытая запись допроса; объединено с trial_lie_036 по README (Defendant / Marissa Devault), дескриптор лица не подтверждает и не опровергает",Marissa Devault
+trial_lie_051,1,640,360,30.0,7.0,487298.0,Lawyer,Marissa Devault,Guilty,S16,M,Marissa Devault,,Marissa Devault
+trial_lie_052,1,320,240,30.0,48.0,258173.0,Defendant's statement,Scott Peterson,Guilty,S17,M,Scott Peterson,,Scott Peterson
+trial_lie_053,1,640,360,10.0,36.0,308384.0,Defendant,Michael Dunn,Guilty,S18,M,Michael Dunn,,Michael Dunn
+trial_lie_054,1,638,360,30.0,20.0,329644.0,Defense Witness,Jodi Arias,Guilty,S19,F,Jodi Arias,"включая радиоэфир (trial_lie_055), косинус 0,75–0,79",Jodi Arias
+trial_lie_055,1,640,360,30.0,32.0,327301.0,Defense Witness,Jodi Arias,Guilty,S19,F,Jodi Arias,"включая радиоэфир (trial_lie_055), косинус 0,75–0,79",Jodi Arias
+trial_lie_056,1,640,360,29.97002997002997,29.029,349316.0,Defense Witness,Jodi Arias,Guilty,S19,F,Jodi Arias,"включая радиоэфир (trial_lie_055), косинус 0,75–0,79",Jodi Arias
+trial_lie_057,1,640,360,29.97002997002997,19.019,376092.0,Defense Witness,Jodi Arias,Guilty,S19,F,Jodi Arias,"включая радиоэфир (trial_lie_055), косинус 0,75–0,79",Jodi Arias
+trial_lie_058,1,640,360,29.97002997002997,22.022,329014.0,Defendant,Lance Armstrong,"after lying previously, he publicly admitted to doping, case still going on.",S20,M,Lance Armstrong,,Lance Armstrong
+trial_lie_059,1,480,360,29.97002997002997,40.006633,223766.0,Defendant,Candace Conti,Guilty,S21,M,Candace Conti,,Candace Conti
+trial_lie_060,1,640,360,29.97002997002997,25.025,562105.0,Defendant,Candace Conti,Guilty,S22,M,Candace Conti,,Candace Conti
+trial_lie_061,1,640,360,29.97002997002997,29.029,409482.0,Defendant,Candace Conti,Guilty,S23,M,Candace Conti,,Candace Conti
+trial_truth_001,0,384,288,29.97002997002997,13.721678,324162.0,Lawyer,The innocence project,NA,S24,F,The innocence project,,The innocence project
+trial_truth_002,0,480,270,29.97002997002997,19.81,544562.0,Lawyer,The innocence project,NA,S25,F,The innocence project,,The innocence project
+trial_truth_003,0,1920,1080,29.97,12.779413,1067356.0,Defendant,Andrea Sneiderman,Guilty,S02,F,Andrea Sneiderman,,Andrea Sneiderman
+trial_truth_004,0,1920,1080,29.97,81.514748,1199733.0,Defendant,Andrea Sneiderman,Guilty,S02,F,Andrea Sneiderman,,Andrea Sneiderman
+trial_truth_005,0,1920,1080,29.97,34.801401,1111230.0,Defendant,Andrea Sneiderman,Guilty,S02,F,Andrea Sneiderman,,Andrea Sneiderman
+trial_truth_006,0,1920,1080,29.97,30.630597,1013805.0,Defendant,Andrea Sneiderman,Guilty,S02,F,Andrea Sneiderman,,Andrea Sneiderman
+trial_truth_007,0,1920,1080,29.97,71.638205,1072526.0,Defendant,Andrea Sneiderman,Guilty,S02,F,Andrea Sneiderman,,Andrea Sneiderman
+trial_truth_008,0,640,360,29.97002997002997,44.36,392329.0,Witness,Jodi Arias,Guilty,S26,M,Jodi Arias,,Jodi Arias
+trial_truth_009,0,640,360,29.97002997002997,22.565011,382929.0,Witness,Jodi Arias,Guilty,S26,M,Jodi Arias,,Jodi Arias
+trial_truth_010,0,640,360,29.97002997002997,72.141678,362470.0,Witness,Jodi Arias,Guilty,S26,M,Jodi Arias,,Jodi Arias
+trial_truth_011,0,640,360,29.97002997002997,40.86,357785.0,Witness,Jodi Arias,Guilty,S26,M,Jodi Arias,,Jodi Arias
+trial_truth_012,0,640,360,29.97002997002997,28.398345,346851.0,Witness,Jodi Arias,Guilty,S26,M,Jodi Arias,,Jodi Arias
+trial_truth_013,0,640,360,29.97002997002997,27.811678,357340.0,Witness,Jodi Arias,Guilty,S26,M,Jodi Arias,,Jodi Arias
+trial_truth_014,0,640,360,29.97002997002997,12.671678,402613.0,Witness,Jodi Arias,Guilty,S26,M,Jodi Arias,,Jodi Arias
+trial_truth_015,0,640,360,29.97002997002997,35.58,374683.0,Witness,Jodi Arias,Guilty,S26,M,Jodi Arias,,Jodi Arias
+trial_truth_016,0,1024,768,25.0,7.52,828177.0,Defendant,Fernando Bermudez,Exonerated,S27,M,Fernando Bermudez,,Fernando Bermudez
+trial_truth_017,0,1024,768,25.0,4.52,861716.0,Defendant,Fernando Bermudez,Exonerated,S27,M,Fernando Bermudez,,Fernando Bermudez
+trial_truth_018,0,1024,768,25.0,6.96,869618.0,Defendant,Chris Ochoa,Exonerated,S28,M,Chris Ochoa,,Chris Ochoa
+trial_truth_019,0,1024,768,25.0,13.0,902344.0,Defendant,Chris Ochoa,Exonerated,S28,M,Chris Ochoa,,Chris Ochoa
+trial_truth_020,0,1024,768,25.0,6.92,841285.0,Defendant,Steven Barnes,Exonerated,S29,M,Steven Barnes,,Steven Barnes
+trial_truth_021,0,1024,768,24.0,10.916667,2649674.0,Defendant,Randy Mills,Exonerated,S30,M,Randy Mills,,Randy Mills
+trial_truth_022,0,480,360,29.97002997002997,28.496667,359645.0,Defendant,Marvin Anderson,Exonerated,S31,M,Marvin Anderson,,Marvin Anderson
+trial_truth_023,0,480,360,29.917,22.546679,541519.0,Defendant,Alan Newton,Exonerated,S32,M,Alan Newton,,Alan Newton
+trial_truth_024,0,480,360,29.97002997002997,22.368345,400804.0,Defendant,Ken Wyniemko,Exonerated,S33,M,Ken Wyniemko,,Ken Wyniemko
+trial_truth_025,0,480,360,29.983670864693405,33.808333,366246.0,Defendant,Ken Wyniemko,Exonerated,S33,M,Ken Wyniemko,,Ken Wyniemko
+trial_truth_026,0,1280,720,29.97002997002997,32.032,1562787.0,Defendant,Mitchelle Blair,Guilty,S07,F,Mitchelle Blair,"косинус SFace 0,79 между клипами",Mitchelle Blair
+trial_truth_027,0,592,334,17.0,25.0,218086.0,Prosecutor Witness,Martin Macneill,Guilty,S34,F,Martin Macneill,,Martin Macneill
+trial_truth_028,0,480,320,25.0,18.018685,521187.0,Witness,Donna Scrivo,Guilty,S35,M,Donna Scrivo,,Donna Scrivo
+trial_truth_029,0,480,320,25.0,23.0,879926.0,Witness,Bessman Okafor,Guilty,S36,F,Bessman Okafor,"косинус SFace 0,88",Bessman Okafor
+trial_truth_030,0,480,320,25.0,55.0,509066.0,Witness,James Boyd,Officer charged with murder,S37,M,James Boyd,,James Boyd
+trial_truth_031,0,480,320,25.0,18.0,876349.0,Witness,Bessman Okafor,Guilty,S36,F,Bessman Okafor,"косинус SFace 0,88",Bessman Okafor
+trial_truth_032,0,480,320,25.0,37.0,914125.0,Witness,Bessman Okafor,Guilty,S38,M,Bessman Okafor,,Bessman Okafor
+trial_truth_033,0,480,320,25.0,17.0,862623.0,Witness,Bessman Okafor,Guilty,S39,F,Bessman Okafor,,Bessman Okafor
+trial_truth_034,0,480,320,25.0,31.0,892610.0,Witness,Bessman Okafor,Guilty,S39,F,Bessman Okafor,,Bessman Okafor
+trial_truth_035,0,480,320,25.0,30.0,842812.0,Witness,Bessman Okafor,Guilty,S40,M,Bessman Okafor,,Bessman Okafor
+trial_truth_036,0,480,320,25.0,37.0,836120.0,Witness,Bessman Okafor,Guilty,S40,M,Bessman Okafor,,Bessman Okafor
+trial_truth_037,0,480,320,25.0,22.0,567188.0,Witness,Jonathan Santillan,Guilty,S41,F,Jonathan Santillan,,Jonathan Santillan
+trial_truth_038,0,480,320,25.0,19.0,813977.0,Witness,Bessman Okafor,Guilty,S42,M,Bessman Okafor,,Bessman Okafor
+trial_truth_039,0,480,320,25.0,32.0,440229.0,Witness,Jamie Hood,Guilty,S43,F,Jamie Hood,,Jamie Hood
+trial_truth_040,0,480,320,25.0,31.0,459964.0,Witness,Jamie Hood,Guilty,S44,M,Jamie Hood,,Jamie Hood
+trial_truth_041,0,618,344,10.0,34.0,212509.0,Defendant,James Boyd,Officer charged with murder,S45,M,James Boyd,,James Boyd
+trial_truth_042,0,618,350,10.0,30.0,230478.0,Witness,James Boyd,Officer charged with murder,S46,M,James Boyd,,James Boyd
+trial_truth_043,0,620,348,10.0,22.0,193713.0,Witness,James Boyd,Officer charged with murder,S47,M,James Boyd,,James Boyd
+trial_truth_044,0,594,338,10.0,21.0,163551.0,Witness,Charles and Kimberly Matthews,Not Guilty,S48,M,Charles and Kimberly Matthews,,Charles and Kimberly Matthews
+trial_truth_045,0,594,338,10.0,33.0,219140.0,Witness,Charles and Kimberly Matthews,Not Guilty,S49,F,Charles and Kimberly Matthews,,Charles and Kimberly Matthews
+trial_truth_046,0,594,338,10.0,37.0,260358.0,Witness,Charles and Kimberly Matthews,Not Guilty,S50,M,Charles and Kimberly Matthews,,Charles and Kimberly Matthews
+trial_truth_047,0,594,342,10.0,26.0,226062.0,Witness,Charles and Kimberly Matthews,Not Guilty,S51,M,Charles and Kimberly Matthews,,Charles and Kimberly Matthews
+trial_truth_048,0,594,342,10.0,26.0,275569.0,Witness,Charles and Kimberly Matthews,Not Guilty,S52,M,Charles and Kimberly Matthews,,Charles and Kimberly Matthews
+trial_truth_049,0,616,354,10.0,30.0,230623.0,Witness,Mitchelle Blair,Guilty,S53,M,Mitchelle Blair,,Mitchelle Blair
+trial_truth_050,0,634,360,10.0,23.0,190947.0,Witness,Carlos Riley,Not Guilty,S54,M,Carlos Riley,,Carlos Riley
+trial_truth_051,0,640,360,29.97002997002997,29.029,352609.0,Victim,Owen Labrie,Guilty,S55,F,Owen Labrie,,Owen Labrie
+trial_truth_052,0,634,360,10.0,29.0,214430.0,Witness,Edgar Collazo,Guilty,S56,F,Edgar Collazo,,Edgar Collazo
+trial_truth_053,0,640,350,27.0,30.0,239992.0,Defendant,Crystal Mangum,Guilty,S09,F,Crystal Mangum,,Crystal Mangum
+trial_truth_054,0,640,360,29.97002997002997,24.024,357420.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_truth_055,0,640,360,29.97002997002997,29.029,417353.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_truth_056,0,640,360,29.97002997002997,34.000633,390410.0,Defendant,Jodi Arias,Guilty,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено",Jodi Arias
+trial_truth_057,0,576,324,29.97002997002997,38.004633,345456.0,Defendant,Amanda Hayes,Guilty,S01,F,Amanda Hayes,,Amanda Hayes
+trial_truth_058,0,576,324,29.97002997002997,21.021,329020.0,Defendant,Amanda Hayes,Guilty,S01,F,Amanda Hayes,,Amanda Hayes
+trial_truth_059,0,576,324,29.97002997002997,27.027,341827.0,Defendant,Amanda Hayes,Guilty,S01,F,Amanda Hayes,,Amanda Hayes
+trial_truth_060,0,640,350,27.0,20.0,242358.0,Defendant,Crystal Mangum,Guilty,S09,F,Crystal Mangum,,Crystal Mangum

@@ -1,0 +1,37 @@
+results_dir: results
+protocols: [clip, speaker, case]
+seeds: [0, 1, 2, 3, 4]
+models: [prior, gender, identity_1nn, metadata_rf, gesture_logreg, stat_nodelta_logreg, stat_logreg, stat_rf, framepool, gru, transformer, transformer_shuffled, framepool_es, gru_es, transformer_es]
+metrics: [auc, auc_fold, acc, bacc]   # auc_fold — AUC внутри фолдов, усреднённый (см. src/aggregate.py)
+n_bootstrap: 1000
+bootstrap_seed: 2026
+n_seeds_expected: 5
+protocol_pairs:            # Δ = A − B для одной и той же модели
+  - [clip, speaker]
+  - [clip, case]
+  - [speaker, case]
+model_pairs:               # Δ = A − B в пределах одного протокола
+  - [transformer, stat_logreg]
+  - [transformer, stat_rf]
+  - [transformer, framepool]
+  - [transformer, transformer_shuffled]
+  - [gru, framepool]
+  - [gru, stat_logreg]
+  - [stat_rf, stat_logreg]
+  - [stat_logreg, stat_nodelta_logreg]
+  - [gesture_logreg, stat_rf]
+  - [stat_rf, prior]
+  - [transformer, prior]
+  # проверка устойчивости: ранняя остановка (отклонение 5 в HYPOTHESES.md)
+  - [framepool_es, framepool]
+  - [gru_es, gru]
+  - [transformer_es, transformer]
+  - [transformer_es, stat_rf]
+  - [transformer_es, stat_logreg]
+  - [gru_es, stat_rf]
+  - [framepool_es, stat_rf]
+  - [transformer_es, framepool_es]
+  - [gru_es, framepool_es]
+  # полнота сравнения с RF для всех нейросетей с фиксированным обучением
+  - [gru, stat_rf]
+  - [framepool, stat_rf]

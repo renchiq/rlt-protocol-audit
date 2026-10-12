@@ -1,0 +1,83 @@
+{
+ "dataset": {
+  "n_clips": 121,
+  "n_deceptive": 61,
+  "n_truthful": 60,
+  "n_speakers": 56,
+  "n_cases": 32,
+  "speakers_both_labels": 5,
+  "clips_from_both_label_speakers": 50,
+  "max_clips_per_speaker": 21,
+  "single_clip_speakers": 41,
+  "clips_in_top4_speakers": 50,
+  "clips_in_top5_speakers": 56,
+  "female_clips": 75,
+  "female_lie_share": 0.6533333333333333,
+  "male_clips": 46,
+  "male_lie_share": 0.2608695652173913,
+  "n_female_speakers": 21,
+  "n_male_speakers": 35
+ },
+ "resolution_vs_label": {
+  "n_resolutions": 23,
+  "chi2": 61.12310330984565,
+  "dof": 22,
+  "p": 1.5219967636352646e-05,
+  "resolutions_single_label": 17,
+  "clips_in_single_label_resolutions": 38
+ },
+ "duration_vs_label": {
+  "median_deceptive": 26.0,
+  "median_truthful": 28.1050115,
+  "U": 1857.5,
+  "p": 0.8886710314470396
+ },
+ "fps_vs_label": {
+  "median_deceptive": 29.97002997002997,
+  "median_truthful": 25.0,
+  "U": 2678.5,
+  "p": 4.312755268137226e-06
+ },
+ "face_tracking": {
+  "valid_ratio_mean": 0.9245512469633128,
+  "valid_ratio_min": 0.05,
+  "clips_valid_below_0_5": 6,
+  "median_face_px_median": 123.22777557373047,
+  "median_face_px_min": 26.41674041748047,
+  "valid_ratio_label_mannwhitney_p": 0.0056469592800226474
+ },
+ "speaker_id_sface": {
+  "n_clips": 80,
+  "n_speakers": 15,
+  "acc": 1.0,
+  "chance": 0.11867088607594936
+ },
+ "speaker_id_face_shape": {
+  "n_clips": 80,
+  "n_speakers": 15,
+  "acc": 0.7875,
+  "chance": 0.11867088607594936
+ },
+ "speaker_id_stat_blend_pose": {
+  "n_clips": 80,
+  "n_speakers": 15,
+  "acc": 0.95,
+  "chance": 0.11867088607594936
+ },
+ "speaker_id_metadata": {
+  "n_clips": 80,
+  "n_speakers": 15,
+  "acc": 0.5625,
+  "chance": 0.11867088607594936
+ },
+ "speaker_label_oracle_clip_protocol": {
+  "acc_mean": 0.656198347107438,
+  "acc_per_seed": [
+   0.6446280991735537,
+   0.6694214876033058,
+   0.6446280991735537,
+   0.6611570247933884,
+   0.6611570247933884
+  ]
+ }
+}

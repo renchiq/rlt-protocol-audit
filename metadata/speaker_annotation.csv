@@ -1,0 +1,122 @@
+clip,speaker_id,gender,case_group,note
+trial_lie_001,S01,F,Amanda Hayes,
+trial_lie_002,S01,F,Amanda Hayes,
+trial_lie_003,S01,F,Amanda Hayes,
+trial_lie_004,S01,F,Amanda Hayes,
+trial_lie_005,S01,F,Amanda Hayes,
+trial_lie_006,S01,F,Amanda Hayes,
+trial_truth_057,S01,F,Amanda Hayes,
+trial_truth_058,S01,F,Amanda Hayes,
+trial_truth_059,S01,F,Amanda Hayes,
+trial_lie_007,S02,F,Andrea Sneiderman,
+trial_lie_008,S02,F,Andrea Sneiderman,
+trial_lie_009,S02,F,Andrea Sneiderman,
+trial_lie_010,S02,F,Andrea Sneiderman,
+trial_lie_011,S02,F,Andrea Sneiderman,
+trial_lie_012,S02,F,Andrea Sneiderman,
+trial_lie_013,S02,F,Andrea Sneiderman,
+trial_truth_003,S02,F,Andrea Sneiderman,
+trial_truth_004,S02,F,Andrea Sneiderman,
+trial_truth_005,S02,F,Andrea Sneiderman,
+trial_truth_006,S02,F,Andrea Sneiderman,
+trial_truth_007,S02,F,Andrea Sneiderman,
+trial_lie_014,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_015,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_016,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_017,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_018,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_019,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_020,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_021,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_022,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_023,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_024,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_025,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_026,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_027,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_028,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_029,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_030,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_031,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_truth_054,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_truth_055,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_truth_056,S03,F,Jodi Arias,"суд + ТВ-интервью (truth_054–056): косинус SFace 0,70–0,78 при разных условиях съёмки, визуально подтверждено"
+trial_lie_032,S04,F,Donna Scrivo,
+trial_lie_033,S05,M,Jamie Hood,
+trial_lie_034,S06,F,Jamie Hood,
+trial_lie_035,S07,F,Mitchelle Blair,"косинус SFace 0,79 между клипами"
+trial_truth_026,S07,F,Mitchelle Blair,"косинус SFace 0,79 между клипами"
+trial_lie_036,S08,F,Marissa Devault,"trial_lie_050 — размытая запись допроса; объединено с trial_lie_036 по README (Defendant / Marissa Devault), дескриптор лица не подтверждает и не опровергает"
+trial_lie_050,S08,F,Marissa Devault,"trial_lie_050 — размытая запись допроса; объединено с trial_lie_036 по README (Defendant / Marissa Devault), дескриптор лица не подтверждает и не опровергает"
+trial_lie_037,S09,F,Crystal Mangum,
+trial_lie_038,S09,F,Crystal Mangum,
+trial_lie_039,S09,F,Crystal Mangum,
+trial_lie_040,S09,F,Crystal Mangum,
+trial_truth_053,S09,F,Crystal Mangum,
+trial_truth_060,S09,F,Crystal Mangum,
+trial_lie_041,S10,M,Robert Dziekanski,
+trial_lie_042,S11,M,Robert Dziekanski,
+trial_lie_043,S12,M,Robert Dziekanski,
+trial_lie_044,S13,M,"Dyches, Hall, and Hopkins trial",
+trial_lie_045,S14,F,Kelly Burke,
+trial_lie_046,S15,F,Carlos Miller,
+trial_lie_047,S15,F,Carlos Miller,
+trial_lie_048,S15,F,Carlos Miller,
+trial_lie_049,S15,F,Carlos Miller,
+trial_lie_051,S16,M,Marissa Devault,
+trial_lie_052,S17,M,Scott Peterson,
+trial_lie_053,S18,M,Michael Dunn,
+trial_lie_054,S19,F,Jodi Arias,"включая радиоэфир (trial_lie_055), косинус 0,75–0,79"
+trial_lie_055,S19,F,Jodi Arias,"включая радиоэфир (trial_lie_055), косинус 0,75–0,79"
+trial_lie_056,S19,F,Jodi Arias,"включая радиоэфир (trial_lie_055), косинус 0,75–0,79"
+trial_lie_057,S19,F,Jodi Arias,"включая радиоэфир (trial_lie_055), косинус 0,75–0,79"
+trial_lie_058,S20,M,Lance Armstrong,
+trial_lie_059,S21,M,Candace Conti,
+trial_lie_060,S22,M,Candace Conti,
+trial_lie_061,S23,M,Candace Conti,
+trial_truth_001,S24,F,The innocence project,
+trial_truth_002,S25,F,The innocence project,
+trial_truth_008,S26,M,Jodi Arias,
+trial_truth_009,S26,M,Jodi Arias,
+trial_truth_010,S26,M,Jodi Arias,
+trial_truth_011,S26,M,Jodi Arias,
+trial_truth_012,S26,M,Jodi Arias,
+trial_truth_013,S26,M,Jodi Arias,
+trial_truth_014,S26,M,Jodi Arias,
+trial_truth_015,S26,M,Jodi Arias,
+trial_truth_016,S27,M,Fernando Bermudez,
+trial_truth_017,S27,M,Fernando Bermudez,
+trial_truth_018,S28,M,Chris Ochoa,
+trial_truth_019,S28,M,Chris Ochoa,
+trial_truth_020,S29,M,Steven Barnes,
+trial_truth_021,S30,M,Randy Mills,
+trial_truth_022,S31,M,Marvin Anderson,
+trial_truth_023,S32,M,Alan Newton,
+trial_truth_024,S33,M,Ken Wyniemko,
+trial_truth_025,S33,M,Ken Wyniemko,
+trial_truth_027,S34,F,Martin Macneill,
+trial_truth_028,S35,M,Donna Scrivo,
+trial_truth_029,S36,F,Bessman Okafor,"косинус SFace 0,88"
+trial_truth_031,S36,F,Bessman Okafor,"косинус SFace 0,88"
+trial_truth_030,S37,M,James Boyd,
+trial_truth_032,S38,M,Bessman Okafor,
+trial_truth_033,S39,F,Bessman Okafor,
+trial_truth_034,S39,F,Bessman Okafor,
+trial_truth_035,S40,M,Bessman Okafor,
+trial_truth_036,S40,M,Bessman Okafor,
+trial_truth_037,S41,F,Jonathan Santillan,
+trial_truth_038,S42,M,Bessman Okafor,
+trial_truth_039,S43,F,Jamie Hood,
+trial_truth_040,S44,M,Jamie Hood,
+trial_truth_041,S45,M,James Boyd,
+trial_truth_042,S46,M,James Boyd,
+trial_truth_043,S47,M,James Boyd,
+trial_truth_044,S48,M,Charles and Kimberly Matthews,
+trial_truth_045,S49,F,Charles and Kimberly Matthews,
+trial_truth_046,S50,M,Charles and Kimberly Matthews,
+trial_truth_047,S51,M,Charles and Kimberly Matthews,
+trial_truth_048,S52,M,Charles and Kimberly Matthews,
+trial_truth_049,S53,M,Mitchelle Blair,
+trial_truth_050,S54,M,Carlos Riley,
+trial_truth_051,S55,F,Owen Labrie,
+trial_truth_052,S56,F,Edgar Collazo,

@@ -1,0 +1,10 @@
+model,protocol,n,median,q1,q3,share_le5
+framepool_es,clip,50,5.5,2.0,8.75,0.5
+framepool_es,speaker,50,6.0,1.0,16.0,0.5
+framepool_es,case,50,1.0,1.0,1.0,0.82
+gru_es,clip,50,4.0,2.0,6.0,0.66
+gru_es,speaker,50,5.0,2.0,11.75,0.52
+gru_es,case,50,3.5,1.0,8.5,0.6
+transformer_es,clip,50,1.0,1.0,2.0,0.94
+transformer_es,speaker,50,1.5,1.0,3.0,0.84
+transformer_es,case,50,2.0,1.25,3.0,0.94

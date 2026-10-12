@@ -1,0 +1,16 @@
+protocol,seed,n_folds,folds_both_classes,clips_in_used_folds
+clip,0,10,10,121
+clip,1,10,10,121
+clip,2,10,10,121
+clip,3,10,10,121
+clip,4,10,10,121
+speaker,0,10,10,121
+speaker,1,10,10,121
+speaker,2,10,10,121
+speaker,3,10,10,121
+speaker,4,10,10,121
+case,0,10,10,121
+case,1,10,10,121
+case,2,10,10,121
+case,3,10,10,121
+case,4,10,10,121

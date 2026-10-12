@@ -1,0 +1,4 @@
+clip,candidate,note
+trial_lie_056,1,"split screen: c0 = defendant/audience; c1 = witness on stand (cos 0.91 with trial_lie_057 c0)"
+trial_lie_060,1,"c0 = reporter (profile); c1 = interviewee in yellow shirt"
+trial_truth_013,1,"c0 = attorney in foreground; c1 = witness on stand"
