@@ -4,10 +4,6 @@
 предсказания для каждого клипа, метрики, доверительные интервалы, графики и логи. Все числа и
 графики можно пересчитать из этого репозитория одним скриптом (`run_all.sh`).
 
-*Evaluation protocol and shortcut audit for video-based deception detection on the Real-life
-Trial corpus: code, speaker annotation, cross-validation splits, per-clip out-of-fold
-predictions, metrics with cluster-bootstrap CIs, figures and logs. Documentation is in Russian.*
-
 ## Что исследуется
 
 Насколько качество распознавания обмана по лицевой динамике (52 blendshape-коэффициента и поза
