@@ -92,14 +92,16 @@ def main():
     g = pd.read_csv(res / "audit/clips_per_speaker.csv").sort_values("count", ascending=False)
     g["lie"] = (g["count"] * g["mean"]).round().astype(int)
     g["truth"] = g["count"] - g["lie"]
-    fig, ax = plt.subplots(figsize=(6.6, 2.4))
+    # размер 1:1 со вставкой в статью (14 см), шрифт ≥ 10 пт в печати
+    plt.rcParams.update({"font.size": 11})
+    fig, ax = plt.subplots(figsize=(5.5, 2.1))
     x = np.arange(len(g))
     ax.bar(x, g["lie"], color="#b2182b", label="обман")
     ax.bar(x, g["truth"], bottom=g["lie"], color="#2166ac", label="правда")
     ax.set_xlabel("говорящие (по убыванию числа клипов)")
     ax.set_ylabel("число клипов")
     ax.set_xticks([])
-    ax.legend(frameon=False, fontsize=8)
+    ax.legend(frameon=False, fontsize=10)
     fig.tight_layout()
     fig.savefig(out / "fig_clips_per_speaker.png", dpi=300, bbox_inches="tight")
     plt.close(fig)
