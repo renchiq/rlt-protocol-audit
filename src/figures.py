@@ -44,7 +44,7 @@ def main():
     tab = pd.read_csv(res / "aggregate/main_table.csv")
     plt.rcParams.update({"font.size": 9, "font.family": "DejaVu Sans"})
 
-    for metric, xlabel, chance in (("auc", "ROC AUC", 0.5), ("auc_fold", "ROC AUC, усреднённый по фолдам", 0.5),
+    for metric, xlabel, chance in (("auc", "ROC AUC", 0.5), ("auc_fold", "ROC AUC, усреднённый по блокам", 0.5),
                                    ("bacc", "Сбалансированная точность", 0.5)):
         models = [m for m in cfg["models"] if m in set(tab.model)]
         fig, ax = plt.subplots(figsize=(6.6, 0.42 * len(models) + 1.0))
@@ -84,7 +84,7 @@ def main():
         ax.axvline(0, color="grey", ls="--", lw=0.8)
         ax.set_yticks(yv)
         ax.set_yticklabels([MODEL_RU.get(m, m) for m in c.index])
-        ax.set_xlabel("ΔAUC (усреднённый по фолдам) = по клипам − по говорящим\n95 % ДИ, кластерный бутстрэп по говорящим")
+        ax.set_xlabel("ΔAUC (усреднённый по блокам) = по клипам − по говорящим\n95 % ДИ, кластерный бутстрэп по говорящим")
         fig.tight_layout()
         fig.savefig(out / "fig_leakage_inflation.png", dpi=300, bbox_inches="tight")
         plt.close(fig)
